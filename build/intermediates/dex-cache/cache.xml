@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YARUS\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="D:\games\labyrinth\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.6_ac94e051e8224bc2997e7fc1711a39893cd4ed51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\games\labyrinth\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7acf8f853d07f10272d4f12a4a2089bc25327a0a">
+        <dex dex="D:\games\labyrinth\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_69a7a2cd6cb2369dd4e6ae070534f5291ec5309a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YARUS\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="D:\games\labyrinth\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.6_a40d25f90e52d07957bb2c282a729c9e9a49b247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\games\labyrinth\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68c41eba92540a838e0d2bdd7aecd9451bcd3a38">
+        <dex dex="D:\games\labyrinth\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c3a68e3c48e6b0fbdc3da758b8d0917926e3c668\classes.dex" />
+    </item>
+
+</items>
